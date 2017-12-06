@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/simpleinvoice.iml" filepath="$PROJECT_DIR$/simpleinvoice.iml" />
+      <module fileurl="file://E:\myproject\InvoiceMadeSimple\simpleinvoice\app\app.iml" filepath="E:\myproject\InvoiceMadeSimple\simpleinvoice\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/simpleinvoice.iml" filepath="$PROJECT_DIR$/.idea/simpleinvoice.iml" />
+      <module fileurl="file://E:\myproject\InvoiceMadeSimple\simpleinvoice\simpleinvoice.iml" filepath="E:\myproject\InvoiceMadeSimple\simpleinvoice\simpleinvoice.iml" />
     </modules>
   </component>
 </project>
